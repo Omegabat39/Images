@@ -5,3 +5,5 @@
 <img width="1440" alt="Metricbeat-scree shot-EM" src="https://user-images.githubusercontent.com/97130195/148586569-1b9dd71d-f77d-4ea3-9bfa-802208ccb418.png">
 
 <img width="1440" alt="Filebeat_screenshotEM" src="https://user-images.githubusercontent.com/97130195/148586849-261167ef-57f9-4c82-8eef-d09ac2c17836.png">
+
+<img width="1440" alt="Docker-PS-EM" src="https://user-images.githubusercontent.com/97130195/148587400-306be96a-b1b0-4a54-a64d-998680b2d7ae.png">
